@@ -1,0 +1,45 @@
+{
+    "general": {
+        "text" : {
+            "register" : "Kayıt Ol",
+            "login" : "Giriş Yap",
+            "logout" : "Çıkış Yap",
+            "lexilearn" : "LexiLearn",
+            "or" : "VEYA"
+        },
+        "button":{
+            "register" : "Kayıt Ol",
+            "login" : "Giriş Yap",
+            "loginWithEmail" : "E-posta ile Giriş Yap",
+            "loginWithGoogle" : "Google ile Giriş Yap",
+            "loginWithApple" : "Apple ile Giriş Yap",
+            "forgotPassword" : "Şifrenizi mi unuttunuz?"
+        },
+        "textFields": {
+            "email" : "E-posta",
+            "password" : "Şifre",
+            "confirmPassword" : "Şifreyi Onayla",
+            "exampleEmail" : "ornek@gmail.com",
+            "examplePassword" : "********"
+        },
+        "slogan" : "Yapay zeka dokunuşuyla kelimelerin gücü.",
+        "title" : "LexiLearn"
+    },
+    "flipCard": {
+        "formality": "Formalite",
+        "frequency": "Sıklık",
+        "tapToFlip": "Çevirmek için dokun",
+        "exampleSentences": "Örnek Cümleler:",
+        "synonyms": "Eş Anlamlılar",
+        "antonyms": "Zıt Anlamlılar",
+        "collocations": "Birlikte Kullanımlar",
+        "formalityLevels": {
+            "formal": "Resmi",
+            "informal": "Gayri Resmi",
+            "neutral": "Nötr"
+        },
+        "frequencyLevels": {
+            "normal": "Normal"
+        }
+    }
+}

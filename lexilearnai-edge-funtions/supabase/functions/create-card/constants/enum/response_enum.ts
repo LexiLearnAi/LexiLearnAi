@@ -1,0 +1,6 @@
+export enum ResponseEnum {
+    SUCCESS = "SUCCESS",
+    INVALID_INPUT = "INVALID_INPUT",
+    INTERNAL_SERVER_ERROR = "INTERNAL_SERVER_ERROR",
+}
+

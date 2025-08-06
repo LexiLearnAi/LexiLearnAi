@@ -1,0 +1,50 @@
+{
+    "general": {
+        "text" : {
+            "register" : "Register",
+            "login" : "Login",
+            "logout" : "Logout",
+            "lexilearn" : "LexiLearn",
+            "or" : "OR"
+
+        },
+        "button":{
+            "register" : "Register",
+            "login" : "Login",
+            "loginWithEmail" : "Login with Email",
+            "loginWithGoogle" : "Login with Google",
+            "loginWithApple" : "Login with Apple",
+            "forgotPassword" : "Forgot your password?"
+
+        },
+        "textFields": {
+            "email" : "Email",
+            "password" : "Password",
+            "confirmPassword" : "Confirm Password",
+            "exampleEmail" : "example@gmail.com",
+            "examplePassword" : "********"
+            
+        },
+        "slogan" : "The power of words with AI touch.",
+        "title" : "LexiLearn"
+
+        
+    },
+    "flipCard": {
+        "formality": "Formality",
+        "frequency": "Frequency",
+        "tapToFlip": "Tap to flip",
+        "exampleSentences": "Example Sentences:",
+        "synonyms": "Synonyms",
+        "antonyms": "Antonyms",
+        "collocations": "Collocations",
+        "formalityLevels": {
+            "formal": "Formal",
+            "informal": "Informal",
+            "neutral": "Neutral"
+        },
+        "frequencyLevels": {
+            "normal": "Normal"
+        }
+    }
+}
