@@ -127,11 +127,7 @@ supabase/functions/
 
 ### 🎥 Demo Video
 
-<div align="center">
-  <video width="300" controls>
-    <source src="assets/images/screenshots/Screen_Recording_20250806-201446.mp4" type="video/mp4">
-  </video>
-</div>
+https://github.com/user-attachments/assets/dbd548c7-5b14-492a-b7be-0857e5f995a7
 
 ## 🚀 Kurulum
 
