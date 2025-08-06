@@ -297,6 +297,7 @@ Hackathon süresinde karşılaştığımız teknik zorluklar ve yetiştiremediğ
 - [ ] Akıllı Tekrar sistemi
 - [ ] Kelime quiz'leri ve testler
 - [ ] Kelime oyunları (crossword, word search)
+- [ ] Planlanan kelimelerin içinde bulunduğu okuma metni oluşturma
 
 ### 🤝 Sosyal Özellikler
 
